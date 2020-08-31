@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: center;
+  margin: 1.4rem;
+}
+header h1 {
+  color: white;
+  text-transform: uppercase;
+}
+header img {
+  background-color: white;
+  margin-top: 13px;
+  margin-right: 0.5rem;
+}
