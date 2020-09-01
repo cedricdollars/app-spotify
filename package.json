@@ -10,6 +10,7 @@
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-howler": "^3.7.5",
     "react-scripts": "3.4.3"
   },
   "scripts": {
